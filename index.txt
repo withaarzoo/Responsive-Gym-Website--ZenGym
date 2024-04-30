@@ -1,0 +1,188 @@
+ZenGym || Best Gym In The Town
+
+
+
+------------ Header Section
+
+BEST FITNESS IN THE TOWN
+
+<span>MAKE</span> YOUR BODY SHAPE
+
+Welcome to ZenGym, where strength meets serenity. Achieve balance, build resilience, and transform your body and mind. Join us on a journey to holistic fitness and wellness.
+
+Get Started
+
+
+
+------------ Explore Section
+
+EXPLORE OUR PROGRAM
+
+<i class="ri-arrow-left-line"></i>
+<i class="ri-arrow-right-line"></i>
+
+<i class="ri-boxing-fill"></i>
+
+Strength
+
+Build strength, sculpt muscle, transform bodies with ZenGym's expert programs.
+
+Join Now
+<i class="ri-arrow-right-line"></i>
+
+<i class="ri-heart-pulse-fill"></i>
+
+Physical Fitness
+
+Transform with ZenGym: Explore our holistic, personalized physical fitness programs.
+
+Join Now
+<i class="ri-arrow-right-line"></i>
+
+Fat Lose
+
+ZenGym's Fat Loss Program: Transform your body with mindful workouts at low cost 24 hours.
+
+Join Now
+<i class="ri-arrow-right-line"></i>
+
+Weight Gain
+
+Discover ZenGym's effective weight gain program for transformative results within 3 months.
+
+Join Now
+<i class="ri-arrow-right-line"></i>
+
+
+
+------------ Class Section
+
+THE CLASS YOU WILL GET HERE
+
+At ZenGym, we deliver more than just workouts; we offer a transformative experience. Our classes are meticulously designed to harmonize body and mind, fostering strength, flexibility, and inner peace. Whether you seek to sculpt your physique, boost endurance, or find serenity in movement, our expert instructors and diverse classes ensure you achieve your fitness goals while nourishing your spirit.
+
+Book A Class
+
+
+
+------------ Join Section
+
+WHY JOIN US ?
+
+Join ZenGym for transformative fitness, expert guidance, community support, and unparalleled wellness experience.
+
+<i class="ri-user-star-fill"></i>
+
+Personal Trainer
+
+Unlock your potential with our expert Personal Trainers.
+
+<i class="ri-vidicon-fill"></i>
+
+Practice Sessions
+
+Elevate your fitness with practice sessions.
+
+<i class="ri-building-line"></i>
+
+Good Management
+
+Supportive management, for your fitness success.
+
+
+
+------------ Price Section
+
+OUR PRICING PLAN
+
+Our pricing plan comes with various membership tiers, each tailored to cater to different preferences and fitness aspirations.
+
+Basic Plan
+$16
+<i class="ri-checkbox-circle-line"></i>
+Smart workout plan
+<i class="ri-checkbox-circle-line"></i>
+At home workouts
+Join Now
+
+Weekly Plan
+$25
+<i class="ri-checkbox-circle-line"></i>
+PRO Gyms
+<i class="ri-checkbox-circle-line"></i>
+Smart workout plan
+<i class="ri-checkbox-circle-line"></i>
+At home workouts
+Join Now
+
+Monthly Plan
+$45
+<i class="ri-checkbox-circle-line"></i>
+ELITE Gyms & Classes
+<i class="ri-checkbox-circle-line"></i>
+PRO Gyms
+<i class="ri-checkbox-circle-line"></i>
+Smart workout plan
+<i class="ri-checkbox-circle-line"></i>
+At home workouts
+<i class="ri-checkbox-circle-line"></i>
+Personal Training
+Join Now
+
+
+
+------------ Review Section
+
+<i class="ri-double-quotes-r"></i>
+
+MEMBER REVIEW
+
+What truly sets this gym apart is their expert team of trainers. The trainers are knowledgeable, approachable, and genuinely invested in helping members achieve their fitness goals. They take the time to understand individual needs and create personalized workout plans, ensuring maximum results and safety.
+
+<i class="ri-star-fill"></i>
+<i class="ri-star-fill"></i>
+<i class="ri-star-fill"></i>
+<i class="ri-star-fill"></i>
+<i class="ri-star-half-fill"></i>
+
+Joe Wicks
+
+Fitness Influencer
+
+<i class="ri-arrow-left-line"></i>
+<i class="ri-arrow-right-line"></i>
+
+
+
+------------ Footer Section
+
+Take the first step towards a healthier, stronger you with our unbeatable pricing plans. Let's sweat, achieve, and conquer together!
+
+<i class="ri-facebook-fill"></i>
+<i class="ri-instagram-line"></i>
+<i class="ri-twitter-fill"></i>
+
+Company
+
+Business
+Franchise
+Partnership
+Network
+
+About Us
+
+Blogs
+Security
+Careers
+
+Contact
+
+Contact Us
+Privacy Policy
+Terms & Conditions
+BMI Calculator
+
+
+
+------------ Footer bar
+Copyright © 2024 Code With Aarzoo. All rights reserved.

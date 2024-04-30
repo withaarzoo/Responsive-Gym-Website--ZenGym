@@ -1,8 +1,8 @@
 <div align="center">
   
-![GitHub repo size](https://img.shields.io/github/repo-size/withaarzoo/Responsive-Gym-Website--ZenGym)
-![GitHub stars](https://shields.io/github/stars/withaarzoo/Responsive-Gym-Website--ZenGym?style=social)
-![GitHub forks](https://shields.io/github/forks/withaarzoo/Responsive-Gym-Website--ZenGym?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/withaarzoo/Personal-Portfolio-Website-Dani)
+![GitHub stars](https://shields.io/github/stars/withaarzoo/Personal-Portfolio-Website-Dani?style=social)
+![GitHub forks](https://shields.io/github/forks/withaarzoo/Personal-Portfolio-Website-Dani?style=social)
 [![Twitter Follow](https://shields.io/twitter/follow/withaarzoo?style=social)](https://twitter.com/intent/follow?screen_name=withaarzoo)
 [![YouTube Video Views](https://shields.io/youtube/views/SAu7e09vXoQ?style=social)](https://youtu.be/SAu7e09vXoQ)
 
@@ -19,12 +19,12 @@
 
 ## Getting Started
 
-To get started with the GYM Project, follow these steps:
+To get started with the Portfolio Project, follow these steps:
 
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/withaarzoo/Responsive-Gym-Website--ZenGym.git
+git clone https://github.com/withaarzoo/Personal-Portfolio-Website-Dani.git
 ```
 
 2. Open the project in your favorite code editor.
@@ -33,12 +33,12 @@ git clone https://github.com/withaarzoo/Responsive-Gym-Website--ZenGym.git
 
 ## Essential Links
 
-- Google Fonts : [click here](https://fonts.google.com/)
-- Email JS : [click here](https://remixicon.com/)
+- IonIcons : [https://ionic.io/ionicons](https://ionic.io/ionicons)
+- Email JS : [https://www.emailjs.com/](https://www.emailjs.com/)
 
 ## Source Code
 
-You can find the complete source code for the GYM Project on Gumroad:
+You can find the complete source code for the Portfolio Project on Gumroad:
 
 - [Click here](https://arzoo6.gumroad.com/l/vqkhv)
 
@@ -46,11 +46,11 @@ You can find the complete source code for the GYM Project on Gumroad:
 
 Need some extra guidance? Watch our video tutorial on setting up and customizing your portfolio:
 
-- [GYM Project Tutorial](https://youtu.be/elFHimbsxtQ)
+- [Portfolio Project Tutorial](https://youtu.be/elFHimbsxtQ)
 
 ## Connect with Me
 
-If you want to contact me you can reach me at [Twitter](https://twitter.com/withaarzoo).
+If you want to contact with me you can reach me at [Twitter](https://twitter.com/withaarzoo).
 
 ## Demo Screenshots
 
