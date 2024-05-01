@@ -39,12 +39,16 @@ Transform with ZenGym: Explore our holistic, personalized physical fitness progr
 Join Now
 <i class="ri-arrow-right-line"></i>
 
+<i class="ri-run-line"></i>
+
 Fat Lose
 
 ZenGym's Fat Loss Program: Transform your body with mindful workouts at low cost 24 hours.
 
 Join Now
 <i class="ri-arrow-right-line"></i>
+
+<i class="ri-shopping-basket-fill"></i>
 
 Weight Gain
 
@@ -159,8 +163,9 @@ Fitness Influencer
 Take the first step towards a healthier, stronger you with our unbeatable pricing plans. Let's sweat, achieve, and conquer together!
 
 <i class="ri-facebook-fill"></i>
-<i class="ri-instagram-line"></i>
 <i class="ri-twitter-fill"></i>
+<i class="ri-instagram-line"></i>
+<i class="ri-linkedin-fill"></i>
 
 Company
 
