@@ -19,12 +19,12 @@
 
 ## Getting Started
 
-To get started with the Portfolio Project, follow these steps:
+To get started with the GYM Project, follow these steps:
 
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/withaarzoo/Personal-Portfolio-Website-Dani.git
+git clone https://github.com/withaarzoo/Responsive-Gym-Website--ZenGym.git
 ```
 
 2. Open the project in your favorite code editor.
@@ -33,12 +33,12 @@ git clone https://github.com/withaarzoo/Personal-Portfolio-Website-Dani.git
 
 ## Essential Links
 
-- IonIcons : [https://ionic.io/ionicons](https://ionic.io/ionicons)
-- Email JS : [https://www.emailjs.com/](https://www.emailjs.com/)
+- Google Fonts : [click here](https://fonts.google.com/)
+- Remix Icon : [click here](https://remixicon.com/)
 
 ## Source Code
 
-You can find the complete source code for the Portfolio Project on Gumroad:
+You can find the complete source code for the GYM Project on Gumroad:
 
 - [Click here](https://arzoo6.gumroad.com/l/vqkhv)
 
@@ -46,11 +46,11 @@ You can find the complete source code for the Portfolio Project on Gumroad:
 
 Need some extra guidance? Watch our video tutorial on setting up and customizing your portfolio:
 
-- [Portfolio Project Tutorial](https://youtu.be/elFHimbsxtQ)
+- [Responsive GYM Project Tutorial](https://youtu.be/elFHimbsxtQ)
 
 ## Connect with Me
 
-If you want to contact with me you can reach me at [Twitter](https://twitter.com/withaarzoo).
+If you want to contact me you can reach me at [Twitter](https://twitter.com/withaarzoo).
 
 ## Demo Screenshots
 
