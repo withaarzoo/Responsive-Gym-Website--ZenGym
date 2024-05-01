@@ -13,7 +13,7 @@
 
   Welcome to the Gym Website Project! This project offers a customizable template for creating your gym's online platform to showcase facilities, services, and achievements.
 
-  <a href="#"><strong>➥ Watch Tutorial</strong></a>
+  <a href="https://youtu.be/3aYed6nMCcM"><strong>➥ Watch Tutorial</strong></a>
 
 </div>
 
@@ -29,7 +29,7 @@ git clone https://github.com/withaarzoo/Responsive-Gym-Website--ZenGym.git
 
 2. Open the project in your favorite code editor.
 
-3. Explore the files, and follow along with the tutorial on [YouTube](https://youtu.be/hwvjhS5Ut_k) for a detailed walkthrough.
+3. Explore the files, and follow along with the tutorial on [YouTube](https://youtu.be/3aYed6nMCcM) for a detailed walkthrough.
 
 ## Essential Links
 
@@ -40,13 +40,13 @@ git clone https://github.com/withaarzoo/Responsive-Gym-Website--ZenGym.git
 
 You can find the complete source code for the GYM Project on Gumroad:
 
-- [Click here](https://arzoo6.gumroad.com/l/vqkhv)
+- [Click here](https://rb.gy/anckws)
 
 ## Video Tutorial
 
 Need some extra guidance? Watch our video tutorial on setting up and customizing your portfolio:
 
-- [Responsive GYM Project Tutorial](https://youtu.be/elFHimbsxtQ)
+- [Responsive GYM Project Tutorial](https://youtu.be/3aYed6nMCcM)
 
 ## Connect with Me
 
