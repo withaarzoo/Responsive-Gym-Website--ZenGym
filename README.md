@@ -13,7 +13,12 @@
 
   Welcome to the Gym Website Project! This project offers a customizable template for creating your gym's online platform to showcase facilities, services, and achievements.
 
+<div>
   <a href="https://youtu.be/3aYed6nMCcM"><strong>➥ Watch Tutorial</strong></a>
+  <br>
+  <br>
+  <a href="https://youtu.be/3aYed6nMCcM"><strong>➥ Download Source Code</strong></a>
+</div>
 
 </div>
 
